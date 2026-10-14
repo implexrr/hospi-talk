@@ -24,4 +24,3 @@ We intend on improving HospiTalk in several ways. Since we only had 36 hours to 
 Additionally, the model has only been trained on one person, the presenter, so in its current state, it inconsistently recognizes the gestures of others. We would expand our model to be trained on a diverse group of people, provided additional time and resources.
 
 [![Watch the video](https://img.youtube.com/vi/5SsZTOIk9Ns/maxresdefault.jpg)](https://youtu.be/5SsZTOIk9Ns)
-Try it out: https://hospitalk.netlify.app/
