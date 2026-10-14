@@ -1,6 +1,8 @@
 # Hospi-Talk #
 This project was created during a 36-hour hackathon in March of 2021. I was responsible for designing the app/UI, project management and training HospiTalk to recognize sign language via a KNN model in TensorFlow.js.
 
+![HospiTalk Demo](./hospiTalk.gif)
+
 # Inspiration #
 This project was inspired by a friend of mine who works at St Michael’s hospital in Toronto - he frequently has to communicate with deaf patients, and often has difficulty doing so. In a healthcare setting, where clarity, accuracy and speed are of paramount importance, it is vital that a clear form of communication is accessible to disadvantaged populations such as the hearing impaired. To address this problem, we built a web-app that allows for quick and easy communication between hearing impaired individuals and hospital staff using American Sign Language.
 
